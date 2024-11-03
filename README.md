@@ -6,7 +6,7 @@ Features
 
 	• Multiple Reporters: Utilizes cypress-multi-reporters to enable both Mochawesome and JUnit reporting.
 		Mochawesome Reporter: Generates comprehensive HTML and JSON reports.
-		Mocha JUnit Reporter: Produces JUnit-style XML reports suitable for CI integration.
+		Mocha JUnit Reporter: Produces JUnit-style XML reports.
 	• End-to-End Testing:
 		Base URL: Configured to run tests against http://localhost:3000.
 	• Screenshots and Videos:
