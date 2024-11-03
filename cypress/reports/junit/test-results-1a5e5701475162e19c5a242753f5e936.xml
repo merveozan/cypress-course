@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="1.049" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2024-11-03T11:24:41" tests="0" file="cypress/e2e/fundamentals.cy.js" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Fundamentals test" timestamp="2024-11-03T11:24:41" tests="2" time="1.047" failures="0">
+    <testcase name="Fundamentals test Contains correct header text" time="0.389" classname="Contains correct header text">
+    </testcase>
+    <testcase name="Fundamentals test Accordion works correctly" time="0.588" classname="Accordion works correctly">
+    </testcase>
+  </testsuite>
+</testsuites>
